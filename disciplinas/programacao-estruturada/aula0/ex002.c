@@ -8,7 +8,7 @@ int main() {
     printf("Digite um valor\n");
     scanf("%i", &x);
 
-    // Teste lÃ³gico
+    // Teste lógico
 
     if (x % 2 == 0) {
         printf("Par!");
